@@ -1,7 +1,3 @@
-Sure! Here's the updated description including the additional instructions:
-
----
-
 # AWS Terraform Frontend Deployment CI/CD
 
 This repository provides a template for deploying a front-end application to AWS using Terraform and GitHub Actions. The setup automates the deployment process to an S3 bucket and invalidates the CloudFront cache to ensure your updates are live immediately.
